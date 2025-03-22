@@ -1,0 +1,9 @@
+requests
+bs4
+termcolor
+colorama
+requests_toolbelt
+user_agent
+random
+string
+json
